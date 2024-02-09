@@ -4,6 +4,8 @@
 
 ## Como executar o projeto
 
+Pré-requisitos: go1.21.6 e docker
+
 ```bash
 # clonar repositório
 git clone https://github.com/renatohvo/go-api.git
